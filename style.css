@@ -1,0 +1,38 @@
+.container{
+    height: 400px;
+    width: 700px;
+   border: solid;
+   border-color: rgb(109, 67, 67);
+   
+    background-color: rgb(185, 123, 123);
+    margin-left: 200px;
+}
+input {
+    width: 320px;
+    height: 25px;
+    font-size: 20px;
+}
+button{
+    width: 50px;
+    text-align: center;
+    height: 32px;
+    margin-left: -10px;  
+    
+}
+label{
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.done{
+    margin-left: 300px;
+   
+    
+}
+button .done .deleto{
+    margin-left: 3px;
+}
+#disp{
+    height: 350px;
+    background-color: grey;
+}
